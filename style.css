@@ -21,9 +21,13 @@ p {
 	color: #444;
 }
 
+a a:hover {
+	cursor: pointer;
+}
+
 #cv {
 	width: 90%;
-	max-width: 800px;
+	max-width: 75%;
 	background: #f3f3f3;
 	margin: 30px auto;
 }
